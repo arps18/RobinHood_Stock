@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stock:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stock_jar</output-path>
+    <root id="archive" name="stock.jar">
+      <element id="module-output" name="stock" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/library/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/library/jfreechart-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/library/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

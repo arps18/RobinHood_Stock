@@ -1,0 +1,39 @@
+{
+  "Type": "flexible",
+  "Stock": [
+    {
+      "Transactions": [
+        {
+          "Type": "buy",
+          "CommissionFee": 2.0,
+          "Price": 99.3,
+          "Shares": 100.0,
+          "Date": "2022-10-03"
+        },
+        {
+          "Type": "sell",
+          "CommissionFee": 5.0,
+          "Price": 102.22,
+          "Shares": 20.0,
+          "Date": "2022-10-05"
+        }
+      ],
+      "Symbol": "GOOG",
+      "Shares": 80.0
+    },
+    {
+      "Transactions": [
+        {
+          "Type": "buy",
+          "CommissionFee": 5.0,
+          "Price": 146.1,
+          "Shares": 30.0,
+          "Date": "2022-10-04"
+        }
+      ],
+      "Symbol": "AAPL",
+      "Shares": 30.0
+    }
+  ],
+  "Name": "testP2"
+}

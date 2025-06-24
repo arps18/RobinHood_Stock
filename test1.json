@@ -1,0 +1,10 @@
+{
+  "Type": "inflexible",
+  "Stock": [
+    {
+      "Symbol": "GOOG",
+      "Shares": 30.0
+    }
+  ],
+  "Name": "testP1"
+}

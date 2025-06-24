@@ -1,0 +1,20 @@
+# production
+out/*
+!out/artifacts
+
+# misc
+.DS_Store
+
+*.zip
+
+*.csv
+!invalidFormat.json
+!invalidStock.json
+!test.csv
+
+*.json
+
+!inavlidStock.json
+!invalidFormat.json
+!test1.json
+!test2.json
